@@ -2,12 +2,6 @@
 Demo security software of application website mail
 
 
---THÀNH VIÊN NHÓM ----
-
-Phùng Võ Minh Trí – 520V0021
-
-
-
 --------------------------CÁCH CHẠY SOURCE CODE--------------------------------
 
 Bước 1: Mở chương trình Xampp và bật Apache và Mysql lên.
